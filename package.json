@@ -1,0 +1,11 @@
+{
+  "name": "region",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Agun Buhori",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.9.27"
+  }
+}
